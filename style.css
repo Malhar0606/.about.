@@ -19,7 +19,7 @@
 
 /* header */
 .hero{
-    background: rgba(0,0,0,0.5) url('hero_2.jpg.webp');
+    background: rgba(0,0,0,0.5) url('image/hero_2.jpg.webp');
     width: 100%;
     height: auto;
     background-position: 50% 0px;
